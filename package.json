@@ -1,0 +1,28 @@
+{
+  "name": "testboard",
+  "version": "1.0.0",
+  "description": "테스트용 게시판 프로그램",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.558.0",
+    "body-parser": "^1.19.0",
+    "bs58": "^4.0.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byunsunguk/board.git"
+  },
+  "author": "byunsunguk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byunsunguk/board/issues"
+  },
+  "homepage": "https://github.com/byunsunguk/board#readme"
+}
